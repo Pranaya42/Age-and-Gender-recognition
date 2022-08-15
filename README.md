@@ -7,9 +7,8 @@ For this python project, we’ll use the Adience dataset; the dataset is availab
  
  ##Outputs
 
-![image](https://user-images.githubusercontent.com/91973551/184686568-69fcab6e-6d2d-43e8-a93c-057f332dcae7.png)
 
-![image](https://user-images.githubusercontent.com/91973551/184686676-38a7ddc0-b443-47f3-a83a-79116c4f1b71.png)
+![image](https://user-images.githubusercontent.com/91973551/184687280-d90cdef3-ab45-42af-b71a-7b5cb458c2a4.png)
 
 ![image](https://user-images.githubusercontent.com/91973551/184686793-5523c5ba-926a-4218-82bc-e2fbe151f369.png)
 
